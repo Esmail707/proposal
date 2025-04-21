@@ -1,0 +1,43 @@
+{
+    "id": "@123",
+    "name": "mustafa",
+    "surname": "ahmed",
+    "age": 30,
+    "classes": ["$346"]
+}
+{
+    "id": "@123",
+    "name": "mustafa",
+    "surname": "ahmed",
+    "age": 30,
+    "classes": [
+        "$999"
+    ]
+}
+{
+    "id": "@1293",
+    "name": "mustafa",
+    "surname": "ahmed",
+    "age": 30,
+    "classes": [
+        "$999"
+    ]
+}
+{
+    "id": "@9999",
+    "name": "mustafa",
+    "surname": "ahmed",
+    "age": 30,
+    "classes": [
+        "$999"
+    ]
+}
+{
+    "id": "@99",
+    "name": "mustafa",
+    "surname": "ahmed",
+    "age": 30,
+    "classes": [
+        "$999"
+    ]
+}
